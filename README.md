@@ -1,33 +1,102 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Deviano Christian Widi Ananda
-======================================================================================================================================================
+<h1 align="center">
+Hi 👋 I'm Deviano Christian Widi Ananda
+</h1>
 
+<p align="center">
 Full Stack Software & Firmware Engineer
----------------------------------------
-
-I am a software engineer and technology enthusiast who enjoys building reliable systems that connect the physical and digital worlds. My work sits at the intersection of backend engineering, Internet of Things (IoT), and artificial intelligence, where I design systems capable of collecting, processing, and transforming real-world data into meaningful insights.
-
-I have a strong interest in building scalable backend services, distributed systems, and intelligent applications. Much of my development work focuses on designing robust APIs, managing data pipelines, and integrating hardware devices such as microcontrollers and sensors with modern cloud infrastructure.
-
-My curiosity about technology extends beyond traditional software development. I am particularly interested in how machine learning and computer vision can be applied to real-world problems, especially in environments where resources are limited or systems must operate close to the edge.
-
-* 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [DeviChr](http://devichr.github.io/portfolio/)
-* ✉️  You can contact me at [devianoananda@gmail.com](mailto:devianoananda@gmail.com)
-* 🧠  I'm currently learning Kotlin
-
-<p align="left">
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
 
-### Socials
+<p align="center">
+<a href="https://github.com/Devichr">
+<img src="https://img.shields.io/github/followers/Devichr?label=Followers&style=for-the-badge"/>
+</a>
+<a href="https://github.com/Devichr">
+<img src="https://img.shields.io/github/stars/Devichr?label=Stars&style=for-the-badge"/>
+</a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/Devichr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/Deviano_chr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@devi.chr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/deviano-christian-276453252" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🚀 About Me
 
-<a href="http://www.github.com/Devichr"><img src="https://github-readme-stats.vercel.app/api?username=Devichr&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="Devichr's GitHub stats" /></a>
+I am a **software engineer and technology enthusiast** who enjoys building reliable systems that connect the **physical and digital worlds**.
 
-<a href="http://www.github.com/Devichr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Devichr&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+My work sits at the intersection of:
 
-<a href="https://github.com/Devichr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devichr&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+* **Backend Engineering**
+* **Internet of Things (IoT)**
+* **Artificial Intelligence**
+
+I design systems capable of **collecting, processing, and transforming real-world data into meaningful insights**.
+
+I have a strong interest in building **scalable backend services, distributed systems, and intelligent applications**. Much of my development work focuses on designing **robust APIs, managing data pipelines, and integrating hardware devices such as microcontrollers and sensors with modern cloud infrastructure.**
+
+My curiosity about technology extends beyond traditional software development. I am particularly interested in how **machine learning and computer vision** can be applied to real-world problems, especially in environments where resources are limited or systems must operate **close to the edge.**
+
+---
+
+## 🌍 Information
+
+* 🌍 Based in **Indonesia**
+* 🖥️ Portfolio → http://devichr.github.io/portfolio/
+* ✉️ Email → **[devianoananda@gmail.com](mailto:devianoananda@gmail.com)**
+* 🧠 Currently learning **Kotlin**
+* ⚡ Interested in **IoT, AI, Distributed Systems, and Edge Computing**
+
+---
+
+# 🛠 Tech Stack
+
+<p align="left">
+
+<a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" /></a> <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" /></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker" /></a> <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a> <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a> <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a> <a href="https://nestjs.com"><img src="https://skillicons.dev/icons?i=nestjs" /></a> <a href="https://postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" /></a> <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" /></a> <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" /></a> <a href="https://laravel.com"><img src="https://skillicons.dev/icons?i=laravel" /></a> <a href="https://figma.com"><img src="https://skillicons.dev/icons?i=figma" /></a> <a href="https://arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" /></a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Devichr">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+
+<a href="https://www.x.com/Deviano_chr">
+<img src="https://skillicons.dev/icons?i=twitter" width="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deviano-christian-276453252">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Devichr&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devichr&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devichr&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devichr&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+⭐️ From <a href="https://github.com/Devichr">Devichr</a>
+</p>
